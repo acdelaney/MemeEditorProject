@@ -83,7 +83,7 @@
 				1545EADC1ED24D2C004982F4 /* Info.plist */,
 			);
 			name = MemeEditorProject_Complete;
-			path = Meme_Experiment;
+			path = MemeEditorProject;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
